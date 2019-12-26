@@ -1,0 +1,551 @@
+C:\Users\Pedro\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+F:\C#\TCC\TCC\bin\Debug\TCC.exe.config
+F:\C#\TCC\TCC\obj\Debug\TCC.exe
+F:\C#\TCC\TCC\obj\Debug\TCC.pdb
+G:\C#\TCC\TCC\bin\Debug\TCC.exe.config
+G:\C#\TCC\TCC\obj\Debug\TCC.exe
+G:\C#\TCC\TCC\obj\Debug\TCC.pdb
+G:\C#\TCC\TCC\bin\Debug\TCC.exe
+G:\C#\TCC\TCC\bin\Debug\TCC.pdb
+G:\C#\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+G:\C#\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+G:\C#\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+G:\C#\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+G:\C#\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+G:\C#\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+G:\C#\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+G:\C#\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+G:\C#\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Etec jaragua\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Desktop\TCC\TCC\obj\Debug\TCC.frmMensal.resources
+G:\TCC\TCC\bin\Debug\TCC.exe.config
+G:\TCC\TCC\obj\Debug\TCC.exe
+G:\TCC\TCC\obj\Debug\TCC.pdb
+G:\TCC\TCC\bin\Debug\TCC.exe
+G:\TCC\TCC\bin\Debug\TCC.pdb
+G:\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+G:\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+G:\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+G:\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+G:\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+G:\TCC\TCC\obj\Debug\TCC.frmMensal.resources
+G:\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+G:\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+G:\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+G:\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.frmMensal.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Documents\ETEC\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\Etec jaragua\Downloads\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Etec jaragua\Downloads\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Etec jaragua\Downloads\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.frmMensal.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Downloads\TCC\TCC\obj\Debug\TCC.frmListadeClientes.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.frmListadeClientes.resources
+C:\Users\familia oliveira\Desktop\TCC\TCC\obj\Debug\TCC.frmMensal.resources
+D:\TCC2\TCC\bin\Debug\TCC.exe.config
+D:\TCC2\TCC\obj\Debug\TCC.exe
+D:\TCC2\TCC\obj\Debug\TCC.pdb
+D:\TCC2\TCC\bin\Debug\TCC.exe
+D:\TCC2\TCC\bin\Debug\TCC.pdb
+D:\TCC2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+D:\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+D:\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+D:\TCC2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+D:\TCC2\TCC\obj\Debug\TCC.frmListadeClientes.resources
+D:\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+D:\TCC2\TCC\obj\Debug\TCC.frmMensal.resources
+D:\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+D:\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+D:\TCC2\TCC\obj\Debug\TCC.Properties.Resources.resources
+D:\TCC2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\bin\Debug\TCC.exe.config
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.pdb
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\bin\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\bin\Debug\TCC.pdb
+G:\TCC2\TCC\bin\Debug\TCC.exe.config
+G:\TCC2\TCC\obj\Debug\TCC.exe
+G:\TCC2\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC2\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.frmMensal.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\TCC2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Pictures\TCC2\TCC\bin\Debug\TCC.exe.config
+C:\Users\Etec jaragua\Pictures\TCC2\TCC\obj\Debug\TCC.exe
+C:\Users\Etec jaragua\Pictures\TCC2\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC2\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC2\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC2\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC2\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+G:\C#\TCC2\TCC\bin\Debug\TCC.exe.config
+G:\C#\TCC2\TCC\obj\Debug\TCC.exe
+G:\C#\TCC2\TCC\obj\Debug\TCC.pdb
+G:\C#\TCC2\TCC\bin\Debug\TCC.exe
+G:\C#\TCC2\TCC\bin\Debug\TCC.pdb
+G:\C#\TCC2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+G:\C#\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC.frmMensal.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC.Properties.Resources.resources
+G:\C#\TCC2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Etec jaragua\Desktop\TCC2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC2\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\bin\Debug\TCC.exe.config
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.pdb
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\bin\Debug\TCC.exe
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\bin\Debug\TCC.pdb
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Etec jaragua\Desktop\TCC2 new\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\TCC2 new\TCC\bin\Debug\TCC.exe.config
+E:\TCC2 new\TCC\obj\Debug\TCC.exe
+E:\TCC2 new\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\TCC2 new\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\Tcc 2 cortado\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\Tcc 2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\fer\Tcc 2\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\fer\Tcc 2\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\fer\Tcc 2\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe.config
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.exe
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe
+C:\Users\Admin\Desktop\Tcc 2\TCC\bin\Debug\TCC.pdb
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeCliente.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmCadastroDeProduto.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmLogin.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmMenu.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC_FASE_BETA.frmSplash.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\Tcc 2\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\Tcc 2\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\Tcc 2\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Pedro\Desktop\Tcc 2\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\tcccc\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\tcccc\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\tcccc\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\tcccc\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\TCC 0,2\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\bin\Debug\TCC.exe.config
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 0,3\TCC\bin\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 0,3\TCC\bin\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Pedro\Desktop\TCC 0,3\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TCC 0709\TCC\bin\Debug\TCC.exe.config
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 0709\TCC\bin\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 0709\TCC\bin\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Admin\Desktop\TCC 0709\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\bin\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\bin\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\familia oliveira\Desktop\TCC 0709\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\bin\Debug\TCC.exe.config
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.exe
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.pdb
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\familia oliveira\Desktop\fer\TCC 0709\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TCC 1409\TCC\bin\Debug\TCC.exe.config
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 1409\TCC\bin\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 1409\TCC\bin\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Admin\Desktop\TCC 1409\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TCC 1409\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 1409\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 1409\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 1409\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Pedro\Desktop\TCC 1409\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TCC 1809\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 1809\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 1809\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 1809\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Pedro\Desktop\TCC 1809\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+H:\TCC 1809\TCC\bin\Debug\TCC.exe.config
+H:\TCC 1809\TCC\obj\Debug\TCC.exe
+H:\TCC 1809\TCC\obj\Debug\TCC.pdb
+H:\TCC 1809\TCC\bin\Debug\TCC.exe
+H:\TCC 1809\TCC\bin\Debug\TCC.pdb
+H:\TCC 1809\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+H:\TCC 1809\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmLogin.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmLucros.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmMenu.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmSplash.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmVendas.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.Properties.Resources.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+H:\TCC 1809\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TCC 1809\TCC\bin\Debug\TCC.exe.config
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 1809\TCC\bin\Debug\TCC.exe
+C:\Users\Admin\Desktop\TCC 1809\TCC\bin\Debug\TCC.pdb
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Admin\Desktop\TCC 1809\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\TCC 2109\TCC\bin\Debug\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 2109\TCC\bin\Debug\TCC.exe
+C:\Users\Pedro\Desktop\TCC 2109\TCC\bin\Debug\TCC.pdb
+C:\Users\Pedro\Desktop\TCC 2109\TCC\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmCaixaLogin.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmCadastroDeUsuario.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmCadastroDeCliente.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmCadastroDeProduto.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmIniciarCaixa.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmLucros.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmSplash.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.frmRecuperacaoDeSenha.resources
+C:\Users\Pedro\Desktop\TCC 2109\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache

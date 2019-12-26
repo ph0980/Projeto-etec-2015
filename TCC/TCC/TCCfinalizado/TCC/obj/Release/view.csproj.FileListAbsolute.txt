@@ -1,0 +1,3 @@
+C:\Users\Pedro\Desktop\TCC 3009\TCC\bin\Release\TCC.exe.config
+C:\Users\Pedro\Desktop\TCC 3009\TCC\obj\Release\TCC.exe
+C:\Users\Pedro\Desktop\TCC 3009\TCC\obj\Release\TCC.pdb

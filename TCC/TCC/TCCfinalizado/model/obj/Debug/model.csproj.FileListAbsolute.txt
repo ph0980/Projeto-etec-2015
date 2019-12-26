@@ -1,0 +1,184 @@
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 2109\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2109\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2109\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 2109\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 3009\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 3009\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 3009\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 3009\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 3009\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 3009\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 3009\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 3009\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 2010\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2010\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2010\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC 2010\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 2010\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 2010\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 2010\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 2010\model\obj\Debug\model.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\model.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\model.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\dto.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\MySql.Data.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\model\bin\Debug\dto.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 2510\model\obj\Debug\model.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 0111\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 0111\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 0111\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC 0111\model\obj\Debug\model.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\model.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\model.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\dto.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\MySql.Data.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\model\bin\Debug\dto.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 0411\model\obj\Debug\model.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC Pré banca\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC1111\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC1111\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC1111\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCC1111\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC1811\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC1811\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC1811\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC1811\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2311\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2311\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2311\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC2311\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2411\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2411\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2411\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC2411\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC0112\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC0112\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC0112\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCC0112\model\obj\Debug\model.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\model.dll
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\model.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\dao.dll
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\dto.dll
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\dao.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\model\bin\Debug\dto.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\tame_\Desktop\TCCfinalizado\model\obj\Debug\model.dll
+C:\Users\tame_\Desktop\TCCfinalizado\model\obj\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\model.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\model.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\model\bin\Debug\MySql.Data.xml
+C:\Users\Pedro\Desktop\TCCfinalizado\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCCfinalizado\model\obj\Debug\model.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\model\obj\Debug\model.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\model.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\model.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\obj\Debug\model.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\model\obj\Debug\model.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\model.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\model.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\dao.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\dto.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\dao.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\dto.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\obj\Debug\model.csproj.CopyComplete
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\obj\Debug\model.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\obj\Debug\model.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\mysql.data.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\model\bin\Debug\mysql.data.xml

@@ -1,0 +1,3 @@
+Campo para celular (tela de cadastro de cliente)
+conferir botão quitar divida (tela de iniciar vendas)
+cancelar pedido do cliente (tela de iniciar vendas)

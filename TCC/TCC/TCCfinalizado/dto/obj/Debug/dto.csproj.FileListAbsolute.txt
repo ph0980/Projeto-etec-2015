@@ -1,0 +1,72 @@
+C:\Users\Pedro\Desktop\TCC 2109\dto\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2109\dto\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2109\dto\obj\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2109\dto\obj\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 3009\dto\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 3009\dto\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 3009\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 3009\dto\obj\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 3009\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 3009\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 3009\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 3009\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 3009\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 3009\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2010\dto\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2010\dto\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2010\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2010\dto\obj\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2010\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 2010\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 2010\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 2010\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 2010\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 2010\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 0111\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 0111\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 0111\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 0111\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 0111\dto\obj\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dto\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dto\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dto\obj\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC1811\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC1811\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC1811\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC1811\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC1811\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2311\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2311\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2311\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2311\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2311\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2411\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2411\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2411\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2411\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2411\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC0112\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC0112\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC0112\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC0112\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC0112\dto\obj\Debug\dto.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\dto\bin\Debug\dto.dll
+C:\Users\tame_\Desktop\TCCfinalizado\dto\bin\Debug\dto.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\tame_\Desktop\TCCfinalizado\dto\obj\Debug\dto.dll
+C:\Users\tame_\Desktop\TCCfinalizado\dto\obj\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dto\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dto\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dto\obj\Debug\dto.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dto\obj\Debug\dto.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dto\obj\Debug\dto.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\bin\Debug\dto.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\bin\Debug\dto.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\obj\Debug\dto.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\obj\Debug\dto.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\obj\Debug\dto.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\bin\Debug\mysql.data.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\bin\Debug\mysql.data.xml
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dto\obj\Debug\dto.csproj.CopyComplete

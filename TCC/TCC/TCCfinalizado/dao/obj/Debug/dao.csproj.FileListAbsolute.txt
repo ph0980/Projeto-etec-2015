@@ -1,0 +1,162 @@
+C:\Users\Pedro\Desktop\TCC 2109\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2109\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 2109\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2109\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 2109\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2109\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2109\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2109\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 3009\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 3009\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 3009\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 3009\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 3009\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 3009\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 3009\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 3009\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 3009\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 3009\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 3009\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 3009\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 3009\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 3009\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 3009\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 2010\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2010\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC 2010\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC 2010\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC 2010\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC 2010\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC 2010\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC 2010\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 2010\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 2010\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 2010\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 2010\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 2010\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 2010\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 2010\dao\obj\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\bin\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\bin\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\bin\Debug\dto.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\bin\Debug\dto.pdb
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\obj\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 2510\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 0111\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 0111\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC 0111\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC 0111\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC 0111\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC 0111\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC 0111\dao\obj\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\bin\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\bin\Debug\dao.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\bin\Debug\dto.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\bin\Debug\mysql.data.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\bin\Debug\dto.pdb
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\obj\Debug\dao.dll
+C:\Users\familia oliveira\Desktop\TCC 0411\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC Pré banca finalizado\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC1111\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC1111\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCC1111\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCC1111\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCC1111\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCC1111\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC1111\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCC1111\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC1811\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC1811\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC1811\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC1811\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC1811\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC1811\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC1811\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2311\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2311\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2311\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2311\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2311\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2311\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2311\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2411\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2411\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC2411\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC2411\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC2411\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC2411\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC2411\dao\obj\Debug\dao.pdb
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\dao.dll
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\dao.pdb
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\dto.dll
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\mysql.data.dll
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\dto.pdb
+C:\Users\Familia Julios\Desktop\TCC2411\dao\bin\Debug\mysql.data.xml
+C:\Users\Familia Julios\Desktop\TCC2411\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Familia Julios\Desktop\TCC2411\dao\obj\Debug\dao.dll
+C:\Users\Familia Julios\Desktop\TCC2411\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC0112\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC0112\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCC0112\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCC0112\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCC0112\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCC0112\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCC0112\dao\obj\Debug\dao.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\dao\bin\Debug\dao.dll
+C:\Users\tame_\Desktop\TCCfinalizado\dao\bin\Debug\dao.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\dao\bin\Debug\dto.dll
+C:\Users\tame_\Desktop\TCCfinalizado\dao\bin\Debug\dto.pdb
+C:\Users\tame_\Desktop\TCCfinalizado\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\tame_\Desktop\TCCfinalizado\dao\obj\Debug\dao.dll
+C:\Users\tame_\Desktop\TCCfinalizado\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Desktop\TCCfinalizado\dao\obj\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dao.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dao.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dto.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dto.pdb
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.dll
+C:\Users\Admin\Desktop\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.pdb
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dao.dll
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dao.pdb
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dto.dll
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\mysql.data.dll
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\dto.pdb
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\bin\Debug\mysql.data.xml
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.dll
+C:\Users\Pedro\Pictures\TCCfinalizado\TCCfinalizado\dao\obj\Debug\dao.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\obj\Debug\dao.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\obj\Debug\dao.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\obj\Debug\dao.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\bin\Debug\dao.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\bin\Debug\dao.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\bin\Debug\dto.dll
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\bin\Debug\dto.pdb
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\bin\Debug\mysql.data.xml
+C:\Users\pedro\Desktop\TCC\TCC\TCCfinalizado\dao\obj\Debug\dao.csproj.CopyComplete
